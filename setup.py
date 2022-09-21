@@ -15,7 +15,7 @@ with open(os.path.join(ROOT, "VERSION")) as version_file:
 
 
 setup(
-    name="pyFAST",
+    name="python-toolbox",
     description="pyFAST",
     long_description=LONG_DESCRIPTION,
     version=VERSION,
